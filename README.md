@@ -5,7 +5,7 @@
   <a href="https://github.com/dechJS" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-Discord Hesabım: `nisharu ⨝#1987`
+Discord Hesabım: `nisharu ⨝#9009`
 https://lanyard-profile-readme.vercel.app/api/450731555053240340
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/450731555053240340)](https://discord.com/users/450731555053240340)

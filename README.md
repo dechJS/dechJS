@@ -1,16 +1,16 @@
-# Hi there , I'm Nisharu! <img src="https://komarev.com/ghpvc/?username=dechJS&color=00ff54"/>
+# Hi there , I'm kovl! <img src="https://komarev.com/ghpvc/?username=dechJS&color=00ff54"/>
 <h3>Social Media</h3>
 <p align="left">
   <a href="https://discord.com/users/450731555053240340" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/dechJS" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-Discord Hesabım: `nisharu ⨝#9009`
+Discord Hesabım: `zelal keskin#1000`
 https://lanyard-profile-readme.vercel.app/api/450731555053240340
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/450731555053240340)](https://discord.com/users/450731555053240340)
 
-Discord nickim değişiklik gösterebilir. `discord.gg/thaypon` sunucusuna gelip beni bulabilirsiniz. :)
+Discord nickim değişiklik gösterebilir. `discord.gg/stargate` sunucusuna gelip beni bulabilirsiniz. :)
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">

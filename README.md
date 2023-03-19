@@ -5,12 +5,12 @@
   <a href="https://github.com/ilaclarimialmadim" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-Discord Hesabım: `zelal keskin#1000`
+Discord Hesabım: `kovl#1000`
 https://lanyard-profile-readme.vercel.app/api/498014156876939265
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/498014156876939265)](https://discord.com/users/498014156876939265)
 
-Discord nickim değişiklik gösterebilir. `discord.gg/stargate` sunucusuna gelip beni bulabilirsiniz. :)
+Discord nickim değişiklik gösterebilir. `discord.gg/visne` sunucusuna gelip beni bulabilirsiniz. :)
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
